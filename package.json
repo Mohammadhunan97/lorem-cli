@@ -1,0 +1,23 @@
+{
+  "name": "lorem-cli",
+  "version": "1.0.0",
+  "description": "lorem ipsum cli, generates lorem ipsum in your terminal",
+  "main": "index.js",
+  "scripts": {
+    "test": "lorem-cli <#> generates a specified number of paragraphs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Mohammadhunan97/lorem-cli.git"
+  },
+  "keywords": [
+    "generator",
+    "lorem-ipsum"
+  ],
+  "author": "mohammad hunan <mohammadhunan@gmail.com | @moe.mkr>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mohammadhunan97/lorem-cli/issues"
+  },
+  "homepage": "https://github.com/Mohammadhunan97/lorem-cli#readme"
+}
